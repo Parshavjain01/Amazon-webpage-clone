@@ -1,5 +1,5 @@
 # Amazon-webpage-clone
-We had made the responsive website with the help of Html and Css
+I had made the responsive website with the help of Html and Css
 
 1. Understanding Responsiveness
 Definition: A responsive website adapts its layout and content to different screen sizes and orientations, ensuring an optimal user experience on devices ranging from smartphones to desktops.
